@@ -1,4 +1,4 @@
-class Whistler {
+class VDom {
   constructor(root) {
     this.root = root;
     this.app = {};
